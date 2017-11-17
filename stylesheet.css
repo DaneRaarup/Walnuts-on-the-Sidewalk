@@ -2,7 +2,12 @@
 <html>
 <head>
 <style>
-background-color: linen;
+body {
+    background-color: linen;
+}
+    color: maroon;
+    margin-left: 40px;
+} 
 
 </body>
 </html>
